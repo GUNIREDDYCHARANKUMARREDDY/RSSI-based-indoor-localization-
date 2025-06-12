@@ -21,13 +21,13 @@ Position: x = 2.1, y = 0.0
 
 
 
-# 📍 ESP32 RSSI-Based Indoor Positioning (MicroPython(Thonny)
+# ESP32 RSSI-Based Indoor Positioning (MicroPython(Thonny)
 
 This project estimates the position of an ESP32 using Wi-Fi RSSI values from two fixed Wi-Fi hotspots (mobile phones). It uses trilateration to estimate the 2D position based on signal strengths.
 
 ---
 
-## 🛠️ Hardware Required
+##  Hardware Required
 
 - 1x ESP32 Dev Board (with MicroPython flashed)
 - 2x Mobile Phones (as Wi-Fi hotspots)
@@ -36,7 +36,7 @@ This project estimates the position of an ESP32 using Wi-Fi RSSI values from two
 
 ---
 
-## 📱 Setup: Mobile Hotspots
+##  Setup: Mobile Hotspots
 
 - **Mobile 1:**
   - Enable hotspot
