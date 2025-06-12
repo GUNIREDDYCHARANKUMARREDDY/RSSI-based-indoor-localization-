@@ -1,7 +1,7 @@
 # RSSI-based-indoor-localization-
 RSSI-based positioning and scanning with ESP32
 
-# Arduino RSSI-based Indoor Positioning
+# ESP32 RSSI-based Indoor Positioning(C++(ARDUINO IDE)
 
 This project uses an ESP32 in station mode to scan WiFi RSSI values from two SoftAPs (ESP32-based) and estimate device position using trilateration.
 
@@ -21,7 +21,7 @@ Position: x = 2.1, y = 0.0
 
 
 
-# 📍 ESP32 RSSI-Based Indoor Positioning (MicroPython)
+# 📍 ESP32 RSSI-Based Indoor Positioning (MicroPython(Thonny)
 
 This project estimates the position of an ESP32 using Wi-Fi RSSI values from two fixed Wi-Fi hotspots (mobile phones). It uses trilateration to estimate the 2D position based on signal strengths.
 
