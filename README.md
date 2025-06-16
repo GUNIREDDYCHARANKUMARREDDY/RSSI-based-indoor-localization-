@@ -1,4 +1,4 @@
-#2D RSSI-based-indoor-localization-
+# RSSI-based-indoor-localization-2D
 RSSI-based positioning and scanning with ESP32
 
 # ESP32 RSSI-based Indoor Positioning(C++(ARDUINO IDE)
